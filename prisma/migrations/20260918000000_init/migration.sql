@@ -1,0 +1,2 @@
+-- Create the schema with Prisma using `npm run prisma:migrate`.
+-- This migration directory is intentionally retained for deployment tracking; Prisma generates provider-specific DDL from schema.prisma.
